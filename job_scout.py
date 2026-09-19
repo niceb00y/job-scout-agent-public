@@ -381,6 +381,8 @@ The candidate is a hands-on builder and operator who ships real products end-to-
 Score this job on 5 dimensions, each 1-10:
 1. skill_match: how many of the candidate exact skills are required or valued
 2. remote_friendliness: 10=worldwide no timezone req, 7=EU friendly, 4=flexible timezone, 1=US/specific timezone required — if job says "open to US candidates" or "residing in US" score 1
+3. seniority_fit: 10=founding/lead/head at startup or AI-native role, 5=mid generalist, 1=junior
+4. role_type_fit: 10=AI engineer/automation/growth/performance marketing/full-stack builder/fractional/consultant, 3=software engineer at big company, 1=unrelated
 5. opportunity_quality: 10=early-stage AI startup or interesting product company, 5=average, 1=body shop/outsourcing/agency/large corp with bureaucracy
 
 Weights: skill_match=0.30, remote_friendliness=0.25, seniority_fit=0.20, role_type_fit=0.15, opportunity_quality=0.10

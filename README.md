@@ -89,7 +89,7 @@ Candidate is based in Slovenia (CET/CEST). Only worldwide or EU-friendly roles p
 
 ## Supabase schema
 
-Table: `job_scout_results` in main Vokrix DB (``)
+Table: `job_scout_results` in Supabase
 
 ```sql
 id            bigserial primary key
