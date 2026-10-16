@@ -394,7 +394,7 @@ Respond ONLY in JSON no markdown:
     for attempt in range(3):
         try:
             response = deepseek.messages.create(
-                model="deepseek-v4-flash",
+                model="deepseek-flash",
                 max_tokens=600,
                 thinking={"type": "disabled"},
                 messages=[{"role": "user", "content": prompt}]
